@@ -1,6 +1,8 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
+# NAME.- ASWIKA.B
+# REF NO.- 24001099
 
 To sketch the given drawing with dimensions using fusion 360 tool.
 
@@ -42,6 +44,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![EDM EX1 1](https://github.com/user-attachments/assets/f134e589-7028-45f5-96ba-7925fdddfaab)
 
 
 ## RESULT
